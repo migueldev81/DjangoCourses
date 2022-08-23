@@ -1,0 +1,8 @@
+mkdir django-[nameproject]
+cd django-[nameproject]
+python -m venv venv
+cd venv 
+cd scripts>activate
+pip install -r requirements.txt
+django-admin startproject core .
+https://makandracards.com/django/53389-django-apps-in-subfolder
