@@ -1,7 +1,7 @@
-mkdir django-[nameproject]
-cd django-[nameproject]
-python -m venv venv
-cd venv 
+mkdir [nameproject]
+cd [nameproject]
+python -m venv [nameenv]
+cd [nameenv] 
 cd scripts>activate
 pip install -r requirements.txt
 django-admin startproject core .
