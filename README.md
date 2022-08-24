@@ -3,9 +3,9 @@
 ![database](./resources/database.png)
 
 ### Requerimients
-```Requeriments
+```
 Install Python 3.x
-
+Install MySQL 5.x
 ```
 ### Variables Enviroment (.env)
 ````
@@ -15,15 +15,12 @@ DB_PASSWORD=
 DB_HOST=
 DB_PORT=
 SECRET_KEY = 
-
 ````
 ### MySQL Console
-
 ````
-CREATE database [DB_DATABASE];
+CREATE DATABASE [DB_DATABASE];
 ````
 ### Virtual Enviroment
-
 ```
 cd venv 
 ```
@@ -35,7 +32,6 @@ pip install -r requirements.txt
 ```
 
 ### Start Project
-
 ```
 python manage.py migrate
 ```
