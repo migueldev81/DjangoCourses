@@ -1,4 +1,4 @@
-# Django - MySQL | API REST | Courses
+# Django - PostgreSQL | API REST | Courses
 ## Database(SQL)
 ![database](./resources/database.png)
 
