@@ -4,8 +4,8 @@
 
 ### Requerimients
 ```
-Install Python 3.x
-Install MySQL 5.x
+Install Python
+Install PostgreSQL
 ```
 ### Variables Enviroment (.env)
 ````
@@ -16,7 +16,7 @@ DB_HOST=
 DB_PORT=
 SECRET_KEY = 
 ````
-### MySQL Console
+### SQL Console(No Remote)
 ````
 CREATE DATABASE [DB_DATABASE];
 ````
