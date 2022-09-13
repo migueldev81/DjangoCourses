@@ -1,17 +1,17 @@
-    ## Name: Courses
-    ## Description:
-    Web API para la gestión de cursos.
-    ## Platform: Web API
-    ## Technologies: Django - PostgreSQL
-    ## Version: 1.0.0
-    ## API URL
-    [https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
-    ## Swagger Documentation
-    [https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
-    ## Database | SQL
-    ![database](./resources/database.png)
-    ## Local Development
-   ### Requerimients
+## Name: Courses
+## Description:
+ Web API para la gestión de cursos.
+## Platform: Web API
+## Technologies: Django - PostgreSQL
+## Version: 1.0.0
+## API URL
+[https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
+## Swagger Documentation
+[https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
+## Database | SQL
+ ![database](./resources/database.png)
+## Local Development
+### Requerimients
 ```
 Python
 PostgreSQL
