@@ -1,11 +1,20 @@
-# Django - PostgreSQL | API REST | Courses
-## Database(SQL)
-![database](./resources/database.png)
-
-### Requerimients
+    ## Name: Courses
+    ## Description:
+    Web API para la gestión de cursos.
+    ## Platform: Web API
+    ## Technologies: Django - PostgreSQL
+    ## Version: 1.0.0
+    ## API URL
+    [https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
+    ## Swagger Documentation
+    [https://django-courses-migueldev81.herokuapp.com/api/v1](https://django-courses-migueldev81.herokuapp.com/api/v1)
+    ## Database | SQL
+    ![database](./resources/database.png)
+    ## Local Development
+   ### Requerimients
 ```
-Install Python
-Install PostgreSQL
+Python
+PostgreSQL
 ```
 ### Variables Enviroment (.env)
 ````
