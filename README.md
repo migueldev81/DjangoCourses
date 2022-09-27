@@ -27,18 +27,22 @@
         </tr>
         <tr>
             <th>API URL</th>
-            <td><a href="https://node-alkemy-challenge.onrender.com/api/v1" target="_blank">https://node-alkemy-challenge.onrender.com/api/v1</a>
+            <td><a href="http://localhost:8000/api/v1" target="_blank">http://localhost:8000/api/v1</a>
             </td>
         </tr>
         <tr>
             <th>DOCS</th>
             <td><a
-                    href="https://node-alkemy-challenge.onrender.com/api-docs">https://node-alkemy-challenge.onrender.com/api-docs</a>
+                    href="http://localhost:8000/api-docs">http://localhost:8000/api-docs</a>
             </td>
+        </tr>
+         <tr>
+            <th>WEB</th>
+            <td>No</td>
         </tr>
         <tr>
             <th>MOBILE</th>
-            <td><a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a></td>
+            <td>No</td>
         </tr>
    </table>
 
