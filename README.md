@@ -47,7 +47,7 @@
    </table>
 
 ## Database | SQL
- ![database](./resources/database.png)
+ ![database](./resources/db.design.png)
 ## Local Development
 ### Requerimients
 ```
