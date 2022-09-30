@@ -23,7 +23,7 @@
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
-            <td><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></td>
+            <td><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
         </tr>
         <tr>
             <th>API URL</th>
