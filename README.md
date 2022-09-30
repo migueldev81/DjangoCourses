@@ -52,7 +52,10 @@
 ### Requerimients
 ```
 Python
-PostgreSQL
+https://www.python.org/downloads/
+
+MySQL
+https://www.mysql.com/downloads/
 ```
 ### Variables Enviroment (.env)
 ````
