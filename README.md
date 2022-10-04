@@ -57,6 +57,10 @@ https://www.python.org/downloads/
 MySQL
 https://www.mysql.com/downloads/
 ```
+### Git Repository
+```
+git clone https://github.com/migueldev81/django-courses
+```
 ### Variables Enviroment (.env)
 ````
 DB_DATABASE=
@@ -66,7 +70,7 @@ DB_HOST=
 DB_PORT=
 SECRET_KEY = 
 ````
-### SQL Console(No Remote)
+### Create Database | SQL Console
 ````
 CREATE DATABASE [DB_DATABASE];
 ````
