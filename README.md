@@ -7,7 +7,7 @@
         </tr>
         <tr>
             <th>DESCRIPTION</th>
-            <td>Desarrollo de API REST para la gestión de cursos de un centro educativo. Esta API tiene fines de fortalecer conceptos en Python/Django. </td>
+            <td>Desarrollo de API REST para la gestión de cursos de un centro educativo. Esta API tiene fines de fortalecer conceptos en Python / Django REST FRAMEWORK. </td>
         </tr>
         <tr>
             <th>PLATFORM</th>
