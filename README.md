@@ -41,10 +41,6 @@
             <td><a
                     href="https://github.com/migueldev81/react-courses">https://github.com/migueldev81/react-courses</a></td>
         </tr>
-        <tr>
-            <th>Mobile APP</th>
-            <td>No</td>
-        </tr>
    </table>
 
 ## Database | SQL
