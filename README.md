@@ -37,11 +37,12 @@
             </td>
         </tr>
          <tr>
-            <th>WEB</th>
-            <td>No</td>
+            <th>Web APP</th>
+            <td><a
+                    href="https://github.com/migueldev81/react-courses">https://github.com/migueldev81/react-courses</a></td>
         </tr>
         <tr>
-            <th>MOBILE</th>
+            <th>Mobile APP</th>
             <td>No</td>
         </tr>
    </table>
