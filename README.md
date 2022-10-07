@@ -26,7 +26,7 @@
             <td><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
         </tr>
         <tr>
-            <th>AURL</th>
+            <th>URL</th>
             <td><a href="http://localhost:8000/api/v1" target="_blank">http://localhost:8000/api/v1</a>
             </td>
         </tr>
