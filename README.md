@@ -26,7 +26,7 @@
             <td><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
         </tr>
         <tr>
-            <th>API URL</th>
+            <th>AURL</th>
             <td><a href="http://localhost:8000/api/v1" target="_blank">http://localhost:8000/api/v1</a>
             </td>
         </tr>
@@ -37,7 +37,7 @@
             </td>
         </tr>
          <tr>
-            <th>WEB</th>
+            <th>Web APP</th>
             <td><a
                     href="https://github.com/migueldev81/react-courses">https://github.com/migueldev81/react-courses</a></td>
         </tr>
