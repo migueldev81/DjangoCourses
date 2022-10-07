@@ -14,16 +14,16 @@
             <td>Web API</td>
         </tr>
         <tr>
+            <th>TECHNOLOGIES</th>
+            <td>Python / Django</td>
+        </tr>
+        <tr>
             <th>ARCHITECTURE</th>
             <td>REST</td>
         </tr>
         <tr>
             <th>AUTH</th>
             <td>JSON Web Token</td>
-        </tr>
-        <tr>
-            <th>TECHNOLOGIES</th>
-            <td>Python / Django</td>
         </tr>
         <tr>
             <th>URL</th>
