@@ -36,11 +36,6 @@
                     href="http://localhost:8000/api-docs">http://localhost:8000/api-docs</a>
             </td>
         </tr>
-         <tr>
-            <th>Web APP</th>
-            <td><a
-                    href="https://github.com/migueldev81/react-courses">https://github.com/migueldev81/react-courses</a></td>
-        </tr>
    </table>
 
 ## Database | SQL
