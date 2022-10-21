@@ -47,13 +47,13 @@
  ![database](./resources/db-design.png)
 ## Local Development
 ### Requerimients
-```
+
 Python
-https://www.python.org/downloads/
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 MySQL
-https://www.mysql.com/downloads/
-```
+[https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)
+
 ### Git Repository
 ```
 git clone https://github.com/migueldev81/django-courses
