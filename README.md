@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
-            <td>Python / Django</td>
+            <td>Python / Django REST FRAMEWORK</td>
         </tr>
         <tr>
             <th>ARCHITECTURE</th>
