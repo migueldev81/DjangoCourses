@@ -3,7 +3,7 @@
         <caption></caption>
         <tr>
             <th>NAME</th>
-            <td>Courses</td>
+            <td>API Courses</td>
         </tr>
         <tr>
             <th>DESCRIPTION</th>
@@ -11,7 +11,7 @@
         </tr>
         <tr>
             <th>PLATFORM</th>
-            <td>Web API</td>
+            <td>API REST</td>
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
