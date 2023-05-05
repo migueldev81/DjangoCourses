@@ -6,7 +6,7 @@
             <td>API Courses</td>
         </tr>
         <tr>
-            <th>DESCRIPTION</th>
+            <th>SUMMARY</th>
             <td>Desarrollo de API REST para la gestión de cursos de un centro educativo. Esta API tiene fines de fortalecer conceptos en Python / Django REST FRAMEWORK. </td>
         </tr>
         <tr>
