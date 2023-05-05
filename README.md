@@ -26,14 +26,8 @@
             <td>JSON Web Token</td>
         </tr>
         <tr>
-            <th>URL</th>
+            <th>LOCALHOST</th>
             <td><a href="http://localhost:8000/api/v1" target="_blank">http://localhost:8000/api/v1</a>
-            </td>
-        </tr>
-        <tr>
-            <th>DOCS</th>
-            <td><a
-                    href="http://localhost:8000/api-docs">http://localhost:8000/api-docs</a>
             </td>
         </tr>
    </table>
