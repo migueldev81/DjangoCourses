@@ -15,7 +15,9 @@
         </tr>
         <tr>
             <th>TECHNOLOGIES</th>
-            <td>Python / Django REST FRAMEWORK</td>
+            <td>
+            <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+            </td>
         </tr>
         <tr>
             <th>ARCHITECTURE</th>
