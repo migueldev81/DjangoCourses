@@ -3,25 +3,17 @@
         <caption></caption>
         <tr>
             <th>NAME</th>
-            <td>API Courses</td>
+            <td>API: Courses</td>
         </tr>
         <tr>
             <th>SUMMARY</th>
             <td>Desarrollo de API REST para la gestión de cursos de un centro educativo. Esta API tiene fines de fortalecer conceptos en Python / Django REST FRAMEWORK. </td>
         </tr>
         <tr>
-            <th>PLATFORM</th>
-            <td>API REST</td>
-        </tr>
-        <tr>
             <th>TECHNOLOGIES</th>
             <td>
             <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
             </td>
-        </tr>
-        <tr>
-            <th>ARCHITECTURE</th>
-            <td>REST</td>
         </tr>
         <tr>
             <th>AUTH</th>
